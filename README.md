@@ -1,6 +1,6 @@
 # Retail-Order-Analysis-Customer-Insights-Excel-Project
 
-Retail Order Analysis & Customer Insights is a data-driven project aimed at analyzing customer purchasing behavior, order trends, and delivery performance. This project utilizes transaction data and Excel as the primary analytical tool to generate actionable insights that improve operational efficiency and enhance customer satisfaction.
+Retail Order Analysis & Customer Insights is a data-driven project aimed at analysing customer purchasing behaviour, order trends, and delivery performance. This project utilizes transaction data and Excel as the primary analytical tool to generate actionable insights that improve operational efficiency and enhance customer satisfaction.
 
 Business Metrics Covered
 The dataset includes multiple dimensions of analysis, including:
